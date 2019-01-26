@@ -20,3 +20,7 @@ Set the locale of your Laravel application to "nl". This option can be found in 
 'locale' => 'nl',
 ```
 Your application will now use the Dutch language. If you need to change the locale dynamically, please read up on the [Laravel localization](https://laravel.com/docs/5.7/localization) documentation.
+
+## Credits
+- [Musa Semou](https://github.com/musa11971)
+- [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang)
